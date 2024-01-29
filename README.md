@@ -52,13 +52,13 @@ Insertion Sort: 1.4649920463562012</br >
 Selection Sort: 1.3417308330535889</br >
 Bubble Sort: 2.267184019088745</br >
 ---------------------------
-System Name: DESKTOP-NSHE2P2\DELL
-Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
-Installed Physical Memory (RAM)	16.0 GB
-Total Physical Memory	15.9 GB
-Available Physical Memory	7.97 GB
-Total Virtual Memory	18.3 GB
-Available Virtual Memory	9.06 GB
+System Name: DESKTOP-NSHE2P2\DELL</br >
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel</br >
+Installed Physical Memory (RAM)	16.0 GB</br >
+Total Physical Memory	15.9 GB</br >
+Available Physical Memory	7.97 GB</br >
+Total Virtual Memory	18.3 GB</br >
+Available Virtual Memory	9.06 GB</br >
 
 [Done] exited with code=0 in 40.991 seconds
 
